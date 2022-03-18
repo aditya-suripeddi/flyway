@@ -16,7 +16,7 @@ Update the application.properties with database access credentials
 
 ### Simulation
 
-Run this commit locally and notice that <em>flyway_schema_history</em> table is created in sample database
+Run this commit locally and notice that <em>flyway_schema_history</em> table is created in <em>sample</em> database
 
 Also notice the USERS table and SOCIAL_SECURITY table being populated as per
 <em>resources/db/migration/V1.1__createTable.sql</em>
