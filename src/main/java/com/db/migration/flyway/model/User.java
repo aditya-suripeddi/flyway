@@ -19,4 +19,5 @@ public class User {
    private String last_name;
    private String email;
    private String ssid;
+   private String mobile; // added as part of updated requirements with V2.1_addColumn.sql
 }
